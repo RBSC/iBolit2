@@ -1,0 +1,47 @@
+Partlist
+
+Assembly variant: 
+
+Part     Value           Device               Package           Library                                Sheet
+
+C1       47uF 10v        CPOL-EUSMCB          SMC_B             rcl                                    1
+C2       100nF           C-EUC0805            C0805             rcl                                    1
+C3       100nF           C-EUC0805            C0805             rcl                                    1
+C4       100nF           C-EUC0805            C0805             rcl                                    1
+C5       100nF           C-EUC0805            C0805             rcl                                    1
+F1       FUSE1206        FUSE1206             FUSE1206          fuse                                   1
+IC1      EPM240T100C4    EPM240T100C4         TQFP100           altera                                 1
+LB1      LEDBLOCK10      LEDBLOCK10           LB10              ledblock                               1
+LB2      LEDBLOCK10      LEDBLOCK10           LB10              ledblock                               1
+LB3      LEDBLOCK10      LEDBLOCK10           LB10              ledblock                               1
+LB4      LEDBLOCK10      LEDBLOCK10           LB10              ledblock                               1
+LED1                     LED5MM               LED5MM            led                                    1
+R1       1k              R-EU_R0805           R0805             resistor                               1
+R2       1k              R-EU_R0805           R0805             resistor                               1
+R3       10k             R-EU_R0805           R0805             resistor                               1
+R5       10k             R-EU_R0805           R0805             resistor                               1
+REG1     REG1117-3.3V    REG1117-3.3          SOT230P700X180-4N Texas Instruments_By_element14_Batch_1 1
+RN1      CTS742C083      CTS742C083           CTS742C083        resistor-net                           1
+RN2      CTS742C083      CTS742C083           CTS742C083        resistor-net                           1
+RN3      CTS742C083      CTS742C083           CTS742C083        resistor-net                           1
+RN4      CTS742C083      CTS742C083           CTS742C083        resistor-net                           1
+RN5      CTS742C083      CTS742C083           CTS742C083        resistor-net                           1
+RN6      CTS742C083      CTS742C083           CTS742C083        resistor-net                           1
+RN7      CTS742C083      CTS742C083           CTS742C083        resistor-net                           1
+RN8      CTS742C083      CTS742C083           CTS742C083        resistor-net                           1
+RN9      CTS742C083      CTS742C083           CTS742C083        resistor-net                           1
+RN10     CTS742C083      CTS742C083           CTS742C083        resistor-net                           1
+RN11     CTS742C083      CTS742C083           CTS742C083        resistor-net                           1
+RN12     CTS742C083      CTS742C083           CTS742C083        resistor-net                           1
+RN13     CTS742C083      CTS742C083           CTS742C083        resistor-net                           1
+RN14     CTS742C083      CTS742C083           CTS742C083        resistor-net                           1
+RN15     CTS742C083      CTS742C083           CTS742C083        resistor-net                           1
+RN16     CTS742C083      CTS742C083           CTS742C083        resistor-net                           1
+RN17     CTS742C083      CTS742C083           CTS742C083        resistor-net                           1
+RN28     CTS742C083      CTS742C083           CTS742C083        resistor-net                           1
+RN29     CTS742C083      CTS742C083           CTS742C083        resistor-net                           1
+RN30     CTS742C083      CTS742C083           CTS742C083        resistor-net                           1
+RN31     CTS742C083      CTS742C083           CTS742C083        resistor-net                           1
+RN32     CTS742C083      CTS742C083           CTS742C083        resistor-net                           1
+SW1      PushButton      31-XX                B3F-31XX          switch-omron                           1
+ZD1      1N4734A 5.6V    ZENER-DIODEZD-7.5    ZDIO-7.5          diode                                  1

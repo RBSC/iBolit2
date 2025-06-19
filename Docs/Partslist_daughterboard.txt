@@ -1,0 +1,17 @@
+Partlist
+
+Assembly variant: 
+
+Part     Value          Device      Package     Library         Sheet
+
+C6       10-47uF        C-EUC1210   C1210       rcl             1
+C7       10-47uF        C-EUC1210   C1210       rcl             1
+C8       10-47uF        C-EUC1210   C1210       rcl             1
+C9       10-47uF        C-EUC1210   C1210       rcl             1
+DC1      VA-1212S       VA-1212S    4SIL        dc-dc-converter 1
+DC2      VA-1212S       VA-1212S    4SIL        dc-dc-converter 1
+LED1                    LEDSQR2X5   LED2X5      led             1
+R1       2k2            R-EU_R0805  R0805       resistor        1
+X1       VA-METER2      VA-METER2   VA_METER2   va_meter2       1
+X2       VA-METER2      VA-METER2   VA_METER2   va_meter2       1
+X3       VA-METER2      VA-METER2   VA_METER2   va_meter2       1
